@@ -1,3 +1,3 @@
-# javascrip
+# javascript
 
 Hello World!
